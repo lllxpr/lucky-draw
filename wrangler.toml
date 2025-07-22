@@ -1,0 +1,7 @@
+name = "lucky-draw-full"
+main = "src/handler.js"
+compatibility_date = "2025-07-22"
+
+kv_namespaces = [
+  { binding = "DRAW_KV", id = "<YOUR_DRAW_KV_NAMESPACE_ID>" }
+]
